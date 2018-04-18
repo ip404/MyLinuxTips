@@ -8,3 +8,7 @@
 - apt-get update
 - apt-get upgrade
 - apt-get dist-upgrade 更新软件
+
+## pip3
+
+- sudo apt-get install python3-pip
