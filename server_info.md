@@ -1,3 +1,3 @@
 # Server
 
-## OS: Ubuntu 14.04 64位
+## OS: Ubuntu 16.04 64位(更新系统)
